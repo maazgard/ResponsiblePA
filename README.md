@@ -19,4 +19,4 @@ this is a single page website
 4. run 'git push origin main'
 
 
-# I haven't removed the old website files and images, there are many project related images still in the directory.
+I haven't removed the old website files and images, there are many project related images still in the directory.
